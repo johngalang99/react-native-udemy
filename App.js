@@ -6,7 +6,7 @@ export default function App() {
     <Text>
       Hello
     </Text>
-    <Button title='hello!!!' />
+    <Button title='hello!!!!' />
     </View>
   );
 }
